@@ -30,15 +30,15 @@ int main() {
   }
 }
 
-prasad@prasad-inspiron-15-3511:~/Desktop/DSA/Array$ g++ reverseArray.cpp 
-prasad@prasad-inspiron-15-3511:~/Desktop/DSA/Array$ ./a.out 
-Enter Number of Elements: 5
-Enter Array[0]: 1
-Enter Array[1]: 2
-Enter Array[2]: 3
-Enter Array[3]: 4 
-Enter Array[4]: 5
-Before Reverse Array
+// prasad@prasad-inspiron-15-3511:~/Desktop/DSA/Array$ g++ reverseArray.cpp 
+// prasad@prasad-inspiron-15-3511:~/Desktop/DSA/Array$ ./a.out 
+// Enter Number of Elements: 5
+// Enter Array[0]: 1
+// Enter Array[1]: 2
+// Enter Array[2]: 3
+// Enter Array[3]: 4 
+// Enter Array[4]: 5
+// Before Reverse Array
 
 // Array[0]: 1
 // Array[1]: 2
