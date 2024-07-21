@@ -4,7 +4,6 @@ int main() {
   int n;
   int arr[10];
   int max, min;
-  
   std::cout << "Enter Number of Elements: ";
   std::cin >> n;
 
