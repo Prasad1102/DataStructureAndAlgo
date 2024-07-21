@@ -44,15 +44,10 @@ int main(){
 // prasad@prasad-inspiron-15-3511:~/Desktop/DSA/Array$ g++ sortArray.cpp 
 // prasad@prasad-inspiron-15-3511:~/Desktop/DSA/Array$ ./a.out 
 // Enter Number of Elements: 5
-
 // Enter Array[0]: 1
-
 // Enter Array[1]: 5
-
 // Enter Array[2]: 2
-
 // Enter Array[3]: 4
-
 // Enter Array[4]: 3
 
 // Before Sorting Array
@@ -62,10 +57,11 @@ int main(){
 // Array[2]: 2
 // Array[3]: 4
 // Array[4]: 3
-//  After Sorting Array
 
+//  After Sorting Array
 // Array[0]: 1
 // Array[1]: 2
 // Array[2]: 3
 // Array[3]: 4
-// Array[4]: 5prasad@prasad-inspiron-15-3511:~/Desktop/DSA/Array$
+// Array[4]: 5
+// prasad@prasad-inspiron-15-3511:~/Desktop/DSA/Array$
