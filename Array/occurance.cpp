@@ -25,7 +25,7 @@ int main() {
   std::cout <<"\nOccurance of"<< k <<"in Array: "<<occ<<"\n";
 }
 
-// prasad@prasad-inspiron-15-3511:~/Desktop/DSA/Array$ g++ occurance.cpp 
+// prasad@prasad-inspiron-15-3511:~/Desktop/DSA/Array$ g++ occurance.cpp -
 // prasad@prasad-inspiron-15-3511:~/Desktop/DSA/Array$ ./a.out 
 // Enter Number of Elements: 5
 // Enter Array[0]: 1
